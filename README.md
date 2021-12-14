@@ -41,4 +41,4 @@ curl localhost:8080/demo/all
 
 ### Interact with docker swarm
 - `docker stack ls` - this will list all the stack deployed
-- `docker stack rm <stack_name/s>` - this removes the deployed stack.
+- `docker stack rm <stack_name/s>` - this removes the deployed stack.If want to remove all the stack then add `$(docker stack ls -q)`
