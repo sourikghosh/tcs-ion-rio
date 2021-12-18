@@ -1,6 +1,7 @@
 # TCS-iOn-Rio
 A basic <b>spring boot</b> <em>REST web application</em> served with <b>tomcat</b> that lets you store users and fetches all the stored users using <b>mysql</b> database.
 
+![image](https://user-images.githubusercontent.com/61813998/146651640-782a9fe2-5866-455a-adac-93d83135adff.png)
 
 ## Installation
 
